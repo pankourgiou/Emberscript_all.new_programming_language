@@ -1,0 +1,1 @@
+This is an esoteric programming language...download the .html and double click it and there you go! it's fully working it's weird that was the thing already. So you can experiment with it, it associates with .ember files and I hope you enjoy!
